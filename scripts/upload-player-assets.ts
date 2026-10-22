@@ -51,7 +51,7 @@ export async function buildPortraitPlan(root = ROOT): Promise<PortraitPlan> {
 }
 
 export function readUploadConfig(environment: NodeJS.ProcessEnv = process.env): UploadConfig {
-  const rawUrl = environment.SUPABASE_URL;
+  const rawUrl = environment.SUPABASE_URL || environment.NEXT_PUBLIC_SUPABASE_URL;
   const key = environment.SUPABASE_SECRET_KEY || environment.SUPABASE_SERVICE_ROLE_KEY;
   if (!rawUrl || !key) throw new Error('Set SUPABASE_URL and server-only SUPABASE_SECRET_KEY (or legacy SUPABASE_SERVICE_ROLE_KEY) securely before using --apply. Never paste secret keys into chat.');
   let url: URL;

@@ -12,8 +12,9 @@ await cp(resolve(root, 'public'), stage, {
   filter: (source) => !/^assets\/players\/[^/]+\.png$/i.test(relative(resolve(root, 'public'), source).replaceAll('\\', '/')),
 });
 const buildEnv: NodeJS.ProcessEnv = { ...process.env, HOSTING_TARGET: 'vercel' };
-if (!buildEnv.VITE_PLAYER_ASSET_BASE_URL && buildEnv.SUPABASE_URL) {
-  const origin = new URL(buildEnv.SUPABASE_URL);
+const supabaseUrl = buildEnv.SUPABASE_URL || buildEnv.NEXT_PUBLIC_SUPABASE_URL;
+if (!buildEnv.VITE_PLAYER_ASSET_BASE_URL && supabaseUrl) {
+  const origin = new URL(supabaseUrl);
   if (origin.protocol !== 'https:' || origin.username || origin.password || origin.pathname !== '/' || origin.search || origin.hash) throw new Error('SUPABASE_URL must be the HTTPS project origin.');
   buildEnv.VITE_PLAYER_ASSET_BASE_URL = `${origin.origin}/storage/v1/object/public/player-portraits`;
 }

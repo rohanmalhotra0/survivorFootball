@@ -106,6 +106,8 @@ That URL is a template, not a deployed link. The 53 inactive roster entries with
 
 Never prefix a secret, service-role key, or SMTP password with `VITE_`. Vite variables are embedded into downloadable JavaScript. `VITE_PLAYER_ASSET_BASE_URL` is deliberately public because the portrait bucket is public.
 
+If you copied Supabase's Next.js quickstart variables, `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY` are accepted aliases for the URL and publishable key. The canonical `SUPABASE_` values take precedence when both are set. `SUPABASE_SECRET_KEY` must still be supplied separately as a server-only variable; never give it a `NEXT_PUBLIC_` or `VITE_` prefix. Supplying only a URL and publishable key does not apply the database migrations or enable maintenance uploads.
+
 The server's privileged key is used only for schedule maintenance and the shared authentication rate limiter. Authenticated league reads and writes use the signed-in user's Supabase identity and database RPC checks. Do not replace those calls with service-role queries to fix a permission error.
 
 5. Deploy after the migration, variables, and image upload are ready. The first Vercel project creation may be needed to learn its exact production domain; update `APP_ORIGIN` and Supabase's allowlisted URLs to that domain, then redeploy.
