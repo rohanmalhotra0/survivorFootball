@@ -1,0 +1,15 @@
+{
+  "season": 2026,
+  "syncedAt": "2026-10-22T15:08:01.538Z",
+  "rosterSource": "https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_2026.csv",
+  "teamSource": "https://raw.githubusercontent.com/nflverse/nflverse-pbp/master/teams_colors_logos.csv",
+  "portraitArchive": "https://raw.githubusercontent.com/T1mSchneider/nfl_headshots/098689222540770b195a7c0daf280df96779620c/headshots_png/",
+  "totalPlayers": 3053,
+  "localPngs": 3000,
+  "remoteOrUnavailable": 53,
+  "activePlayers": 1665,
+  "activeLocalPngs": 1665,
+  "activeMissing": 0,
+  "officialRosterMatches": 1820,
+  "requestedPhotos": "all"
+}

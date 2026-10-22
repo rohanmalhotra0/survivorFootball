@@ -1,0 +1,47 @@
+{
+  "name": "last-standing",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "NODE_USE_ENV_PROXY=1 tsx watch server/index.ts",
+    "build": "tsc --noEmit && vite build",
+    "start": "NODE_ENV=production NODE_USE_ENV_PROXY=1 tsx server/index.ts",
+    "test": "NODE_USE_ENV_PROXY=1 tsx --test tests/*.test.ts",
+    "sync:data": "NODE_USE_ENV_PROXY=1 tsx scripts/sync-data.ts",
+    "sync:rosters": "NODE_USE_ENV_PROXY=1 tsx scripts/sync-rosters.ts",
+    "check": "tsc --noEmit",
+    "test:browser": "playwright test",
+    "test:hosted-db": "tsx --test tests/hosted-postgres.integration.ts",
+    "dev:hosted": "APP_BACKEND=supabase NODE_USE_ENV_PROXY=1 tsx watch server/index.ts",
+    "build:vercel": "tsx scripts/build-vercel.ts",
+    "sync:hosted": "NODE_USE_ENV_PROXY=1 tsx scripts/sync-hosted.ts",
+    "hosting:check": "NODE_USE_ENV_PROXY=1 tsx scripts/check-hosting-env.ts",
+    "assets:plan": "tsx scripts/upload-player-assets.ts",
+    "assets:upload": "NODE_USE_ENV_PROXY=1 tsx scripts/upload-player-assets.ts --apply"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.12.7",
+    "@supabase/supabase-js": "^2.118.0",
+    "csv-parse": "^6.1.0",
+    "express": "^5.1.0",
+    "lucide-react": "^0.468.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "tsx": "^4.20.6",
+    "zod": "^4.1.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.10.0",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "@vitejs/plugin-react": "^5.1.0",
+    "typescript": "^5.9.3",
+    "vite": "^7.2.2"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}

@@ -1,0 +1,13 @@
+.git
+.env
+.env.*
+!.env.example
+node_modules
+dist
+data
+artifacts
+tests
+test-results
+playwright-report
+.hosting
+public/assets/players/*.png

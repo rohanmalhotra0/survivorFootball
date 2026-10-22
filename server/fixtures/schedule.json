@@ -1,0 +1,3703 @@
+{
+  "games": [
+    {
+      "id": "2026_01_NE_SEA",
+      "season": 2026,
+      "week": 1,
+      "homeTeamId": "26",
+      "awayTeamId": "17",
+      "kickoff": "2026-09-10T00:20:00.000Z",
+      "status": "final",
+      "homeScore": 13,
+      "awayScore": 10,
+      "winnerTeamId": "26",
+      "odds": {
+        "homeMoneyline": -166,
+        "awayMoneyline": 140,
+        "homeSpread": -3,
+        "total": 44.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_01_SF_LA",
+      "season": 2026,
+      "week": 1,
+      "homeTeamId": "14",
+      "awayTeamId": "25",
+      "kickoff": "2026-09-11T00:35:00.000Z",
+      "status": "final",
+      "homeScore": 7,
+      "awayScore": 27,
+      "winnerTeamId": "25",
+      "odds": {
+        "homeMoneyline": -218,
+        "awayMoneyline": 180,
+        "homeSpread": -3.5,
+        "total": 47.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_01_CHI_CAR",
+      "season": 2026,
+      "week": 1,
+      "homeTeamId": "29",
+      "awayTeamId": "3",
+      "kickoff": "2026-09-13T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 37,
+      "awayScore": 59,
+      "winnerTeamId": "3",
+      "odds": {
+        "homeMoneyline": 140,
+        "awayMoneyline": -166,
+        "homeSpread": 3,
+        "total": 47.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_01_TB_CIN",
+      "season": 2026,
+      "week": 1,
+      "homeTeamId": "4",
+      "awayTeamId": "27",
+      "kickoff": "2026-09-13T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 33,
+      "awayScore": 27,
+      "winnerTeamId": "4",
+      "odds": {
+        "homeMoneyline": -205,
+        "awayMoneyline": 170,
+        "homeSpread": -3.5,
+        "total": 50.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_01_NO_DET",
+      "season": 2026,
+      "week": 1,
+      "homeTeamId": "8",
+      "awayTeamId": "18",
+      "kickoff": "2026-09-13T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 31,
+      "awayScore": 30,
+      "winnerTeamId": "8",
+      "odds": {
+        "homeMoneyline": -325,
+        "awayMoneyline": 260,
+        "homeSpread": -7,
+        "total": 49.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_01_BUF_HOU",
+      "season": 2026,
+      "week": 1,
+      "homeTeamId": "34",
+      "awayTeamId": "2",
+      "kickoff": "2026-09-13T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 31,
+      "awayScore": 36,
+      "winnerTeamId": "2",
+      "odds": {
+        "homeMoneyline": -108,
+        "awayMoneyline": -112,
+        "homeSpread": 1.5,
+        "total": 44.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_01_BAL_IND",
+      "season": 2026,
+      "week": 1,
+      "homeTeamId": "11",
+      "awayTeamId": "33",
+      "kickoff": "2026-09-13T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 23,
+      "awayScore": 41,
+      "winnerTeamId": "33",
+      "odds": {
+        "homeMoneyline": 136,
+        "awayMoneyline": -162,
+        "homeSpread": 3,
+        "total": 48.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_01_CLE_JAX",
+      "season": 2026,
+      "week": 1,
+      "homeTeamId": "30",
+      "awayTeamId": "5",
+      "kickoff": "2026-09-13T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 34,
+      "awayScore": 10,
+      "winnerTeamId": "30",
+      "odds": {
+        "homeMoneyline": -470,
+        "awayMoneyline": 360,
+        "homeSpread": -8.5,
+        "total": 40.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_01_ATL_PIT",
+      "season": 2026,
+      "week": 1,
+      "homeTeamId": "23",
+      "awayTeamId": "1",
+      "kickoff": "2026-09-13T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 20,
+      "awayScore": 13,
+      "winnerTeamId": "23",
+      "odds": {
+        "homeMoneyline": -298,
+        "awayMoneyline": 240,
+        "homeSpread": -6.5,
+        "total": 40.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_01_NYJ_TEN",
+      "season": 2026,
+      "week": 1,
+      "homeTeamId": "10",
+      "awayTeamId": "20",
+      "kickoff": "2026-09-13T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 10,
+      "awayScore": 23,
+      "winnerTeamId": "20",
+      "odds": {
+        "homeMoneyline": -118,
+        "awayMoneyline": -102,
+        "homeSpread": -1.5,
+        "total": 39.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_01_ARI_LAC",
+      "season": 2026,
+      "week": 1,
+      "homeTeamId": "24",
+      "awayTeamId": "22",
+      "kickoff": "2026-09-13T20:25:00.000Z",
+      "status": "final",
+      "homeScore": 14,
+      "awayScore": 26,
+      "winnerTeamId": "22",
+      "odds": {
+        "homeMoneyline": -455,
+        "awayMoneyline": 350,
+        "homeSpread": -8.5,
+        "total": 47.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_01_MIA_LV",
+      "season": 2026,
+      "week": 1,
+      "homeTeamId": "13",
+      "awayTeamId": "15",
+      "kickoff": "2026-09-13T20:25:00.000Z",
+      "status": "final",
+      "homeScore": 27,
+      "awayScore": 13,
+      "winnerTeamId": "13",
+      "odds": {
+        "homeMoneyline": -170,
+        "awayMoneyline": 142,
+        "homeSpread": -3,
+        "total": 40.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_01_GB_MIN",
+      "season": 2026,
+      "week": 1,
+      "homeTeamId": "16",
+      "awayTeamId": "9",
+      "kickoff": "2026-09-13T20:25:00.000Z",
+      "status": "final",
+      "homeScore": 39,
+      "awayScore": 22,
+      "winnerTeamId": "16",
+      "odds": {
+        "homeMoneyline": -125,
+        "awayMoneyline": 105,
+        "homeSpread": -1.5,
+        "total": 46.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_01_WAS_PHI",
+      "season": 2026,
+      "week": 1,
+      "homeTeamId": "21",
+      "awayTeamId": "28",
+      "kickoff": "2026-09-13T20:25:00.000Z",
+      "status": "final",
+      "homeScore": 24,
+      "awayScore": 22,
+      "winnerTeamId": "21",
+      "odds": {
+        "homeMoneyline": -245,
+        "awayMoneyline": 200,
+        "homeSpread": -6,
+        "total": 43.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_01_DAL_NYG",
+      "season": 2026,
+      "week": 1,
+      "homeTeamId": "19",
+      "awayTeamId": "6",
+      "kickoff": "2026-09-14T00:20:00.000Z",
+      "status": "final",
+      "homeScore": 28,
+      "awayScore": 20,
+      "winnerTeamId": "19",
+      "odds": {
+        "homeMoneyline": 140,
+        "awayMoneyline": -166,
+        "homeSpread": 3,
+        "total": 47.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_01_DEN_KC",
+      "season": 2026,
+      "week": 1,
+      "homeTeamId": "12",
+      "awayTeamId": "7",
+      "kickoff": "2026-09-15T00:15:00.000Z",
+      "status": "final",
+      "homeScore": 31,
+      "awayScore": 10,
+      "winnerTeamId": "12",
+      "odds": {
+        "homeMoneyline": -130,
+        "awayMoneyline": 110,
+        "homeSpread": -2.5,
+        "total": 42.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_02_DET_BUF",
+      "season": 2026,
+      "week": 2,
+      "homeTeamId": "2",
+      "awayTeamId": "8",
+      "kickoff": "2026-09-18T00:15:00.000Z",
+      "status": "final",
+      "homeScore": 41,
+      "awayScore": 31,
+      "winnerTeamId": "2",
+      "odds": {
+        "homeMoneyline": -238,
+        "awayMoneyline": 195,
+        "homeSpread": -5.5,
+        "total": 54.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_02_CAR_ATL",
+      "season": 2026,
+      "week": 2,
+      "homeTeamId": "1",
+      "awayTeamId": "29",
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 3,
+      "awayScore": 34,
+      "winnerTeamId": "29",
+      "odds": {
+        "homeMoneyline": 130,
+        "awayMoneyline": -155,
+        "homeSpread": 2.5,
+        "total": 43.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_02_NO_BAL",
+      "season": 2026,
+      "week": 2,
+      "homeTeamId": "33",
+      "awayTeamId": "18",
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 17,
+      "awayScore": 24,
+      "winnerTeamId": "18",
+      "odds": {
+        "homeMoneyline": -375,
+        "awayMoneyline": 295,
+        "homeSpread": -8.5,
+        "total": 45.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_02_MIN_CHI",
+      "season": 2026,
+      "week": 2,
+      "homeTeamId": "3",
+      "awayTeamId": "16",
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 3,
+      "awayScore": 9,
+      "winnerTeamId": "16",
+      "odds": {
+        "homeMoneyline": -218,
+        "awayMoneyline": 180,
+        "homeSpread": -4.5,
+        "total": 46.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_02_CIN_HOU",
+      "season": 2026,
+      "week": 2,
+      "homeTeamId": "34",
+      "awayTeamId": "4",
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 6,
+      "awayScore": 20,
+      "winnerTeamId": "4",
+      "odds": {
+        "homeMoneyline": -148,
+        "awayMoneyline": 124,
+        "homeSpread": -3,
+        "total": 45.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_02_PIT_NE",
+      "season": 2026,
+      "week": 2,
+      "homeTeamId": "17",
+      "awayTeamId": "23",
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 20,
+      "awayScore": 3,
+      "winnerTeamId": "17",
+      "odds": {
+        "homeMoneyline": -225,
+        "awayMoneyline": 185,
+        "homeSpread": -4.5,
+        "total": 41.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_02_GB_NYJ",
+      "season": 2026,
+      "week": 2,
+      "homeTeamId": "20",
+      "awayTeamId": "9",
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 17,
+      "awayScore": 20,
+      "winnerTeamId": "9",
+      "odds": {
+        "homeMoneyline": 154,
+        "awayMoneyline": -185,
+        "homeSpread": 3.5,
+        "total": 44.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_02_CLE_TB",
+      "season": 2026,
+      "week": 2,
+      "homeTeamId": "27",
+      "awayTeamId": "5",
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 19,
+      "awayScore": 23,
+      "winnerTeamId": "5",
+      "odds": {
+        "homeMoneyline": -425,
+        "awayMoneyline": 330,
+        "homeSpread": -8.5,
+        "total": 41.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_02_PHI_TEN",
+      "season": 2026,
+      "week": 2,
+      "homeTeamId": "10",
+      "awayTeamId": "21",
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 20,
+      "awayScore": 24,
+      "winnerTeamId": "21",
+      "odds": {
+        "homeMoneyline": 260,
+        "awayMoneyline": -325,
+        "homeSpread": 7,
+        "total": 39.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_02_JAX_DEN",
+      "season": 2026,
+      "week": 2,
+      "homeTeamId": "7",
+      "awayTeamId": "30",
+      "kickoff": "2026-09-20T20:05:00.000Z",
+      "status": "final",
+      "homeScore": 20,
+      "awayScore": 13,
+      "winnerTeamId": "7",
+      "odds": {
+        "homeMoneyline": -148,
+        "awayMoneyline": 124,
+        "homeSpread": -2.5,
+        "total": 45.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_02_LV_LAC",
+      "season": 2026,
+      "week": 2,
+      "homeTeamId": "24",
+      "awayTeamId": "13",
+      "kickoff": "2026-09-20T20:05:00.000Z",
+      "status": "final",
+      "homeScore": 14,
+      "awayScore": 26,
+      "winnerTeamId": "13",
+      "odds": {
+        "homeMoneyline": -325,
+        "awayMoneyline": 260,
+        "homeSpread": -6.5,
+        "total": 43.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_02_SEA_ARI",
+      "season": 2026,
+      "week": 2,
+      "homeTeamId": "22",
+      "awayTeamId": "26",
+      "kickoff": "2026-09-20T20:25:00.000Z",
+      "status": "final",
+      "homeScore": 7,
+      "awayScore": 31,
+      "winnerTeamId": "26",
+      "odds": {
+        "homeMoneyline": 180,
+        "awayMoneyline": -218,
+        "homeSpread": 3.5,
+        "total": 40.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_02_WAS_DAL",
+      "season": 2026,
+      "week": 2,
+      "homeTeamId": "6",
+      "awayTeamId": "28",
+      "kickoff": "2026-09-20T20:25:00.000Z",
+      "status": "final",
+      "homeScore": 37,
+      "awayScore": 20,
+      "winnerTeamId": "6",
+      "odds": {
+        "homeMoneyline": -218,
+        "awayMoneyline": 180,
+        "homeSpread": -3.5,
+        "total": 51.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_02_MIA_SF",
+      "season": 2026,
+      "week": 2,
+      "homeTeamId": "25",
+      "awayTeamId": "15",
+      "kickoff": "2026-09-20T20:25:00.000Z",
+      "status": "final",
+      "homeScore": 35,
+      "awayScore": 13,
+      "winnerTeamId": "25",
+      "odds": {
+        "homeMoneyline": -900,
+        "awayMoneyline": 600,
+        "homeSpread": -12.5,
+        "total": 44.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_02_IND_KC",
+      "season": 2026,
+      "week": 2,
+      "homeTeamId": "12",
+      "awayTeamId": "11",
+      "kickoff": "2026-09-21T00:20:00.000Z",
+      "status": "final",
+      "homeScore": 33,
+      "awayScore": 30,
+      "winnerTeamId": "12",
+      "odds": {
+        "homeMoneyline": -265,
+        "awayMoneyline": 215,
+        "homeSpread": -6,
+        "total": 46.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_02_NYG_LA",
+      "season": 2026,
+      "week": 2,
+      "homeTeamId": "14",
+      "awayTeamId": "19",
+      "kickoff": "2026-09-22T00:15:00.000Z",
+      "status": "final",
+      "homeScore": 28,
+      "awayScore": 6,
+      "winnerTeamId": "14",
+      "odds": {
+        "homeMoneyline": -298,
+        "awayMoneyline": 240,
+        "homeSpread": -6.5,
+        "total": 47.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_03_ATL_GB",
+      "season": 2026,
+      "week": 3,
+      "homeTeamId": "9",
+      "awayTeamId": "1",
+      "kickoff": "2026-09-25T00:15:00.000Z",
+      "status": "final",
+      "homeScore": 14,
+      "awayScore": 35,
+      "winnerTeamId": "1",
+      "odds": {
+        "homeMoneyline": -230,
+        "awayMoneyline": 190,
+        "homeSpread": -4.5,
+        "total": 43.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_03_LAC_BUF",
+      "season": 2026,
+      "week": 3,
+      "homeTeamId": "2",
+      "awayTeamId": "24",
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 24,
+      "awayScore": 16,
+      "winnerTeamId": "2",
+      "odds": {
+        "homeMoneyline": -325,
+        "awayMoneyline": 260,
+        "homeSpread": -7,
+        "total": 50.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_03_CAR_CLE",
+      "season": 2026,
+      "week": 3,
+      "homeTeamId": "5",
+      "awayTeamId": "29",
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 21,
+      "awayScore": 18,
+      "winnerTeamId": "5",
+      "odds": {
+        "homeMoneyline": 114,
+        "awayMoneyline": -135,
+        "homeSpread": 2.5,
+        "total": 41.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_03_NYJ_DET",
+      "season": 2026,
+      "week": 3,
+      "homeTeamId": "8",
+      "awayTeamId": "20",
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 31,
+      "awayScore": 24,
+      "winnerTeamId": "8",
+      "odds": {
+        "homeMoneyline": -325,
+        "awayMoneyline": 260,
+        "homeSpread": -7,
+        "total": 49.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_03_HOU_IND",
+      "season": 2026,
+      "week": 3,
+      "homeTeamId": "11",
+      "awayTeamId": "34",
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 19,
+      "awayScore": 17,
+      "winnerTeamId": "11",
+      "odds": {
+        "homeMoneyline": 105,
+        "awayMoneyline": -125,
+        "homeSpread": 1.5,
+        "total": 41.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_03_NE_JAX",
+      "season": 2026,
+      "week": 3,
+      "homeTeamId": "30",
+      "awayTeamId": "17",
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 35,
+      "awayScore": 6,
+      "winnerTeamId": "30",
+      "odds": {
+        "homeMoneyline": -162,
+        "awayMoneyline": 136,
+        "homeSpread": -3,
+        "total": 46.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_03_KC_MIA",
+      "season": 2026,
+      "week": 3,
+      "homeTeamId": "15",
+      "awayTeamId": "12",
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 10,
+      "awayScore": 24,
+      "winnerTeamId": "12",
+      "odds": {
+        "homeMoneyline": 440,
+        "awayMoneyline": -600,
+        "homeSpread": 10,
+        "total": 45.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_03_TEN_NYG",
+      "season": 2026,
+      "week": 3,
+      "homeTeamId": "19",
+      "awayTeamId": "10",
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 12,
+      "awayScore": 7,
+      "winnerTeamId": "19",
+      "odds": {
+        "homeMoneyline": -130,
+        "awayMoneyline": 110,
+        "homeSpread": -2.5,
+        "total": 37.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_03_CIN_PIT",
+      "season": 2026,
+      "week": 3,
+      "homeTeamId": "23",
+      "awayTeamId": "4",
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 30,
+      "awayScore": 27,
+      "winnerTeamId": "23",
+      "odds": {
+        "homeMoneyline": 150,
+        "awayMoneyline": -180,
+        "homeSpread": 3.5,
+        "total": 42.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_03_SEA_WAS",
+      "season": 2026,
+      "week": 3,
+      "homeTeamId": "28",
+      "awayTeamId": "26",
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 33,
+      "awayScore": 31,
+      "winnerTeamId": "28",
+      "odds": {
+        "homeMoneyline": 320,
+        "awayMoneyline": -410,
+        "homeSpread": 8.5,
+        "total": 40.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_03_ARI_SF",
+      "season": 2026,
+      "week": 3,
+      "homeTeamId": "25",
+      "awayTeamId": "22",
+      "kickoff": "2026-09-27T20:05:00.000Z",
+      "status": "final",
+      "homeScore": 36,
+      "awayScore": 30,
+      "winnerTeamId": "25",
+      "odds": {
+        "homeMoneyline": -395,
+        "awayMoneyline": 310,
+        "homeSpread": -7.5,
+        "total": 48.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_03_MIN_TB",
+      "season": 2026,
+      "week": 3,
+      "homeTeamId": "27",
+      "awayTeamId": "16",
+      "kickoff": "2026-09-27T20:05:00.000Z",
+      "status": "final",
+      "homeScore": 16,
+      "awayScore": 23,
+      "winnerTeamId": "16",
+      "odds": {
+        "homeMoneyline": -108,
+        "awayMoneyline": -112,
+        "homeSpread": 1.5,
+        "total": 42.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_03_BAL_DAL",
+      "season": 2026,
+      "week": 3,
+      "homeTeamId": "6",
+      "awayTeamId": "33",
+      "kickoff": "2026-09-27T20:25:00.000Z",
+      "status": "final",
+      "homeScore": 31,
+      "awayScore": 34,
+      "winnerTeamId": "33",
+      "odds": {
+        "homeMoneyline": 142,
+        "awayMoneyline": -170,
+        "homeSpread": 3,
+        "total": 53.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_03_LV_NO",
+      "season": 2026,
+      "week": 3,
+      "homeTeamId": "18",
+      "awayTeamId": "13",
+      "kickoff": "2026-09-27T20:25:00.000Z",
+      "status": "final",
+      "homeScore": 27,
+      "awayScore": 35,
+      "winnerTeamId": "13",
+      "odds": {
+        "homeMoneyline": -192,
+        "awayMoneyline": 160,
+        "homeSpread": -3.5,
+        "total": 43.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_03_LA_DEN",
+      "season": 2026,
+      "week": 3,
+      "homeTeamId": "7",
+      "awayTeamId": "14",
+      "kickoff": "2026-09-28T00:20:00.000Z",
+      "status": "final",
+      "homeScore": 30,
+      "awayScore": 26,
+      "winnerTeamId": "7",
+      "odds": {
+        "homeMoneyline": -112,
+        "awayMoneyline": -108,
+        "homeSpread": -1.5,
+        "total": 43.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_03_PHI_CHI",
+      "season": 2026,
+      "week": 3,
+      "homeTeamId": "3",
+      "awayTeamId": "21",
+      "kickoff": "2026-09-29T00:15:00.000Z",
+      "status": "final",
+      "homeScore": 27,
+      "awayScore": 7,
+      "winnerTeamId": "3",
+      "odds": {
+        "homeMoneyline": 164,
+        "awayMoneyline": -198,
+        "homeSpread": 3.5,
+        "total": 42.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_04_PIT_CLE",
+      "season": 2026,
+      "week": 4,
+      "homeTeamId": "5",
+      "awayTeamId": "23",
+      "kickoff": "2026-10-02T00:15:00.000Z",
+      "status": "final",
+      "homeScore": 27,
+      "awayScore": 24,
+      "winnerTeamId": "5",
+      "odds": {
+        "homeMoneyline": 124,
+        "awayMoneyline": -148,
+        "homeSpread": 2.5,
+        "total": 38.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_04_IND_WAS",
+      "season": 2026,
+      "week": 4,
+      "homeTeamId": "28",
+      "awayTeamId": "11",
+      "kickoff": "2026-10-04T13:30:00.000Z",
+      "status": "final",
+      "homeScore": 13,
+      "awayScore": 30,
+      "winnerTeamId": "11",
+      "odds": {
+        "homeMoneyline": 190,
+        "awayMoneyline": -230,
+        "homeSpread": 4.5,
+        "total": 46.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_04_TEN_BAL",
+      "season": 2026,
+      "week": 4,
+      "homeTeamId": "33",
+      "awayTeamId": "10",
+      "kickoff": "2026-10-04T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 24,
+      "awayScore": 18,
+      "winnerTeamId": "33",
+      "odds": {
+        "homeMoneyline": -800,
+        "awayMoneyline": 550,
+        "homeSpread": -11.5,
+        "total": 42.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_04_NE_BUF",
+      "season": 2026,
+      "week": 4,
+      "homeTeamId": "2",
+      "awayTeamId": "17",
+      "kickoff": "2026-10-04T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 26,
+      "awayScore": 29,
+      "winnerTeamId": "17",
+      "odds": {
+        "homeMoneyline": -345,
+        "awayMoneyline": 275,
+        "homeSpread": -7,
+        "total": 49.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_04_NYJ_CHI",
+      "season": 2026,
+      "week": 4,
+      "homeTeamId": "3",
+      "awayTeamId": "20",
+      "kickoff": "2026-10-04T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 23,
+      "awayScore": 12,
+      "winnerTeamId": "3",
+      "odds": {
+        "homeMoneyline": -192,
+        "awayMoneyline": 160,
+        "homeSpread": -3.5,
+        "total": 43.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_04_JAX_CIN",
+      "season": 2026,
+      "week": 4,
+      "homeTeamId": "4",
+      "awayTeamId": "30",
+      "kickoff": "2026-10-04T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 17,
+      "awayScore": 22,
+      "winnerTeamId": "30",
+      "odds": {
+        "homeMoneyline": -148,
+        "awayMoneyline": 124,
+        "homeSpread": -2.5,
+        "total": 51.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_04_DAL_HOU",
+      "season": 2026,
+      "week": 4,
+      "homeTeamId": "34",
+      "awayTeamId": "6",
+      "kickoff": "2026-10-04T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 30,
+      "awayScore": 34,
+      "winnerTeamId": "6",
+      "odds": {
+        "homeMoneyline": -155,
+        "awayMoneyline": 130,
+        "homeSpread": -3,
+        "total": 48.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_04_ARI_NYG",
+      "season": 2026,
+      "week": 4,
+      "homeTeamId": "19",
+      "awayTeamId": "22",
+      "kickoff": "2026-10-04T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 36,
+      "awayScore": 24,
+      "winnerTeamId": "19",
+      "odds": {
+        "homeMoneyline": 114,
+        "awayMoneyline": -135,
+        "homeSpread": 2.5,
+        "total": 44.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_04_LA_PHI",
+      "season": 2026,
+      "week": 4,
+      "homeTeamId": "21",
+      "awayTeamId": "14",
+      "kickoff": "2026-10-04T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 20,
+      "awayScore": 24,
+      "winnerTeamId": "14",
+      "odds": {
+        "homeMoneyline": 164,
+        "awayMoneyline": -198,
+        "homeSpread": 3.5,
+        "total": 42.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_04_GB_TB",
+      "season": 2026,
+      "week": 4,
+      "homeTeamId": "27",
+      "awayTeamId": "9",
+      "kickoff": "2026-10-04T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 14,
+      "awayScore": 17,
+      "winnerTeamId": "9",
+      "odds": {
+        "homeMoneyline": 130,
+        "awayMoneyline": -155,
+        "homeSpread": 3,
+        "total": 38.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_04_MIA_MIN",
+      "season": 2026,
+      "week": 4,
+      "homeTeamId": "16",
+      "awayTeamId": "15",
+      "kickoff": "2026-10-04T20:05:00.000Z",
+      "status": "final",
+      "homeScore": 15,
+      "awayScore": 10,
+      "winnerTeamId": "16",
+      "odds": {
+        "homeMoneyline": -535,
+        "awayMoneyline": 400,
+        "homeSpread": -10,
+        "total": 38.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_04_KC_LV",
+      "season": 2026,
+      "week": 4,
+      "homeTeamId": "13",
+      "awayTeamId": "12",
+      "kickoff": "2026-10-04T20:25:00.000Z",
+      "status": "final",
+      "homeScore": 27,
+      "awayScore": 30,
+      "winnerTeamId": "12",
+      "odds": {
+        "homeMoneyline": 185,
+        "awayMoneyline": -225,
+        "homeSpread": 4.5,
+        "total": 47.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_04_LAC_SEA",
+      "season": 2026,
+      "week": 4,
+      "homeTeamId": "26",
+      "awayTeamId": "24",
+      "kickoff": "2026-10-04T20:25:00.000Z",
+      "status": "final",
+      "homeScore": 30,
+      "awayScore": 23,
+      "winnerTeamId": "26",
+      "odds": {
+        "homeMoneyline": -345,
+        "awayMoneyline": 275,
+        "homeSpread": -7,
+        "total": 42.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_04_DEN_SF",
+      "season": 2026,
+      "week": 4,
+      "homeTeamId": "25",
+      "awayTeamId": "7",
+      "kickoff": "2026-10-04T20:25:00.000Z",
+      "status": "final",
+      "homeScore": 24,
+      "awayScore": 14,
+      "winnerTeamId": "25",
+      "odds": {
+        "homeMoneyline": -166,
+        "awayMoneyline": 140,
+        "homeSpread": -3,
+        "total": 48.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_04_DET_CAR",
+      "season": 2026,
+      "week": 4,
+      "homeTeamId": "29",
+      "awayTeamId": "8",
+      "kickoff": "2026-10-05T00:20:00.000Z",
+      "status": "final",
+      "homeScore": 32,
+      "awayScore": 26,
+      "winnerTeamId": "29",
+      "odds": {
+        "homeMoneyline": 185,
+        "awayMoneyline": -225,
+        "homeSpread": 4.5,
+        "total": 52.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_04_ATL_NO",
+      "season": 2026,
+      "week": 4,
+      "homeTeamId": "18",
+      "awayTeamId": "1",
+      "kickoff": "2026-10-06T00:15:00.000Z",
+      "status": "final",
+      "homeScore": 24,
+      "awayScore": 45,
+      "winnerTeamId": "1",
+      "odds": {
+        "homeMoneyline": -118,
+        "awayMoneyline": -102,
+        "homeSpread": -1.5,
+        "total": 47.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_05_TB_DAL",
+      "season": 2026,
+      "week": 5,
+      "homeTeamId": "6",
+      "awayTeamId": "27",
+      "kickoff": "2026-10-09T00:15:00.000Z",
+      "status": "final",
+      "homeScore": 16,
+      "awayScore": 24,
+      "winnerTeamId": "27",
+      "odds": {
+        "homeMoneyline": -535,
+        "awayMoneyline": 400,
+        "homeSpread": -9.5,
+        "total": 49.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_05_PHI_JAX",
+      "season": 2026,
+      "week": 5,
+      "homeTeamId": "30",
+      "awayTeamId": "21",
+      "kickoff": "2026-10-11T13:30:00.000Z",
+      "status": "final",
+      "homeScore": 19,
+      "awayScore": 17,
+      "winnerTeamId": "30",
+      "odds": {
+        "homeMoneyline": -380,
+        "awayMoneyline": 300,
+        "homeSpread": -7.5,
+        "total": 41.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_05_CHI_GB",
+      "season": 2026,
+      "week": 5,
+      "homeTeamId": "9",
+      "awayTeamId": "3",
+      "kickoff": "2026-10-11T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 31,
+      "awayScore": 7,
+      "winnerTeamId": "9",
+      "odds": {
+        "homeMoneyline": 105,
+        "awayMoneyline": -125,
+        "homeSpread": 1.5,
+        "total": 46.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_05_CIN_MIA",
+      "season": 2026,
+      "week": 5,
+      "homeTeamId": "15",
+      "awayTeamId": "4",
+      "kickoff": "2026-10-11T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 24,
+      "awayScore": 31,
+      "winnerTeamId": "4",
+      "odds": {
+        "homeMoneyline": 280,
+        "awayMoneyline": -355,
+        "homeSpread": 7,
+        "total": 44.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_05_LV_NE",
+      "season": 2026,
+      "week": 5,
+      "homeTeamId": "17",
+      "awayTeamId": "13",
+      "kickoff": "2026-10-11T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 45,
+      "awayScore": 17,
+      "winnerTeamId": "17",
+      "odds": {
+        "homeMoneyline": -180,
+        "awayMoneyline": 150,
+        "homeSpread": -3.5,
+        "total": 45.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_05_MIN_NO",
+      "season": 2026,
+      "week": 5,
+      "homeTeamId": "18",
+      "awayTeamId": "16",
+      "kickoff": "2026-10-11T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 13,
+      "awayScore": 23,
+      "winnerTeamId": "16",
+      "odds": {
+        "homeMoneyline": 120,
+        "awayMoneyline": -142,
+        "homeSpread": 2.5,
+        "total": 41.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_05_CLE_NYJ",
+      "season": 2026,
+      "week": 5,
+      "homeTeamId": "20",
+      "awayTeamId": "5",
+      "kickoff": "2026-10-11T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 17,
+      "awayScore": 12,
+      "winnerTeamId": "20",
+      "odds": {
+        "homeMoneyline": -142,
+        "awayMoneyline": 120,
+        "homeSpread": -2.5,
+        "total": 38.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_05_IND_PIT",
+      "season": 2026,
+      "week": 5,
+      "homeTeamId": "23",
+      "awayTeamId": "11",
+      "kickoff": "2026-10-11T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 34,
+      "awayScore": 22,
+      "winnerTeamId": "23",
+      "odds": {
+        "homeMoneyline": -162,
+        "awayMoneyline": 136,
+        "homeSpread": -3,
+        "total": 41.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_05_HOU_TEN",
+      "season": 2026,
+      "week": 5,
+      "homeTeamId": "10",
+      "awayTeamId": "34",
+      "kickoff": "2026-10-11T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 3,
+      "awayScore": 26,
+      "winnerTeamId": "34",
+      "odds": {
+        "homeMoneyline": 250,
+        "awayMoneyline": -310,
+        "homeSpread": 6.5,
+        "total": 37.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_05_NYG_WAS",
+      "season": 2026,
+      "week": 5,
+      "homeTeamId": "28",
+      "awayTeamId": "19",
+      "kickoff": "2026-10-11T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 27,
+      "awayScore": 27,
+      "odds": {
+        "homeMoneyline": -180,
+        "awayMoneyline": 150,
+        "homeSpread": -3.5,
+        "total": 41.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_05_DEN_LAC",
+      "season": 2026,
+      "week": 5,
+      "homeTeamId": "24",
+      "awayTeamId": "7",
+      "kickoff": "2026-10-11T20:05:00.000Z",
+      "status": "final",
+      "homeScore": 17,
+      "awayScore": 23,
+      "winnerTeamId": "7",
+      "odds": {
+        "homeMoneyline": 160,
+        "awayMoneyline": -192,
+        "homeSpread": 3.5,
+        "total": 42.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_05_DET_ARI",
+      "season": 2026,
+      "week": 5,
+      "homeTeamId": "22",
+      "awayTeamId": "8",
+      "kickoff": "2026-10-11T20:25:00.000Z",
+      "status": "final",
+      "homeScore": 21,
+      "awayScore": 45,
+      "winnerTeamId": "8",
+      "odds": {
+        "homeMoneyline": 215,
+        "awayMoneyline": -265,
+        "homeSpread": 5.5,
+        "total": 55.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_05_SF_SEA",
+      "season": 2026,
+      "week": 5,
+      "homeTeamId": "26",
+      "awayTeamId": "25",
+      "kickoff": "2026-10-11T20:25:00.000Z",
+      "status": "final",
+      "homeScore": 29,
+      "awayScore": 32,
+      "winnerTeamId": "25",
+      "odds": {
+        "homeMoneyline": -166,
+        "awayMoneyline": 140,
+        "homeSpread": -3,
+        "total": 46.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_05_BAL_ATL",
+      "season": 2026,
+      "week": 5,
+      "homeTeamId": "1",
+      "awayTeamId": "33",
+      "kickoff": "2026-10-12T00:20:00.000Z",
+      "status": "final",
+      "homeScore": 23,
+      "awayScore": 30,
+      "winnerTeamId": "33",
+      "odds": {
+        "homeMoneyline": -175,
+        "awayMoneyline": 145,
+        "homeSpread": -3.5,
+        "total": 44.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_05_BUF_LA",
+      "season": 2026,
+      "week": 5,
+      "homeTeamId": "14",
+      "awayTeamId": "2",
+      "kickoff": "2026-10-13T00:15:00.000Z",
+      "status": "final",
+      "homeScore": 34,
+      "awayScore": 37,
+      "winnerTeamId": "2",
+      "odds": {
+        "homeMoneyline": -185,
+        "awayMoneyline": 154,
+        "homeSpread": -3.5,
+        "total": 55.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_06_SEA_DEN",
+      "season": 2026,
+      "week": 6,
+      "homeTeamId": "7",
+      "awayTeamId": "26",
+      "kickoff": "2026-10-16T00:15:00.000Z",
+      "status": "final",
+      "homeScore": 17,
+      "awayScore": 14,
+      "winnerTeamId": "7",
+      "odds": {
+        "homeMoneyline": 130,
+        "awayMoneyline": -155,
+        "homeSpread": 2.5,
+        "total": 40.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_06_HOU_JAX",
+      "season": 2026,
+      "week": 6,
+      "homeTeamId": "30",
+      "awayTeamId": "34",
+      "kickoff": "2026-10-18T13:30:00.000Z",
+      "status": "final",
+      "homeScore": 31,
+      "awayScore": 34,
+      "winnerTeamId": "34",
+      "odds": {
+        "homeMoneyline": -142,
+        "awayMoneyline": 120,
+        "homeSpread": -2.5,
+        "total": 42.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_06_CHI_ATL",
+      "season": 2026,
+      "week": 6,
+      "homeTeamId": "1",
+      "awayTeamId": "3",
+      "kickoff": "2026-10-18T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 23,
+      "awayScore": 31,
+      "winnerTeamId": "3",
+      "odds": {
+        "homeMoneyline": -102,
+        "awayMoneyline": -118,
+        "homeSpread": 1.5,
+        "total": 51.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_06_BAL_CLE",
+      "season": 2026,
+      "week": 6,
+      "homeTeamId": "5",
+      "awayTeamId": "33",
+      "kickoff": "2026-10-18T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 13,
+      "awayScore": 10,
+      "winnerTeamId": "5",
+      "odds": {
+        "homeMoneyline": 142,
+        "awayMoneyline": -170,
+        "homeSpread": 3,
+        "total": 39.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_06_TEN_IND",
+      "season": 2026,
+      "week": 6,
+      "homeTeamId": "11",
+      "awayTeamId": "10",
+      "kickoff": "2026-10-18T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 20,
+      "awayScore": 26,
+      "winnerTeamId": "10",
+      "odds": {
+        "homeMoneyline": -298,
+        "awayMoneyline": 240,
+        "homeSpread": -6.5,
+        "total": 43.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_06_NYJ_NE",
+      "season": 2026,
+      "week": 6,
+      "homeTeamId": "17",
+      "awayTeamId": "20",
+      "kickoff": "2026-10-18T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 26,
+      "awayScore": 19,
+      "winnerTeamId": "17",
+      "odds": {
+        "homeMoneyline": -345,
+        "awayMoneyline": 275,
+        "homeSpread": -7.5,
+        "total": 43.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_06_NO_NYG",
+      "season": 2026,
+      "week": 6,
+      "homeTeamId": "19",
+      "awayTeamId": "18",
+      "kickoff": "2026-10-18T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 27,
+      "awayScore": 34,
+      "winnerTeamId": "18",
+      "odds": {
+        "homeMoneyline": -112,
+        "awayMoneyline": -108,
+        "homeSpread": 1.5,
+        "total": 46.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_06_CAR_PHI",
+      "season": 2026,
+      "week": 6,
+      "homeTeamId": "21",
+      "awayTeamId": "29",
+      "kickoff": "2026-10-18T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 14,
+      "awayScore": 25,
+      "winnerTeamId": "29",
+      "odds": {
+        "homeMoneyline": 136,
+        "awayMoneyline": -162,
+        "homeSpread": 3,
+        "total": 39.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_06_PIT_TB",
+      "season": 2026,
+      "week": 6,
+      "homeTeamId": "27",
+      "awayTeamId": "23",
+      "kickoff": "2026-10-18T17:00:00.000Z",
+      "status": "final",
+      "homeScore": 19,
+      "awayScore": 26,
+      "winnerTeamId": "23",
+      "odds": {
+        "homeMoneyline": 120,
+        "awayMoneyline": -142,
+        "homeSpread": 2.5,
+        "total": 38.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_06_ARI_LA",
+      "season": 2026,
+      "week": 6,
+      "homeTeamId": "14",
+      "awayTeamId": "22",
+      "kickoff": "2026-10-18T20:05:00.000Z",
+      "status": "final",
+      "homeScore": 16,
+      "awayScore": 18,
+      "winnerTeamId": "22",
+      "odds": {
+        "homeMoneyline": -700,
+        "awayMoneyline": 500,
+        "homeSpread": -12.5,
+        "total": 51.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_06_LAC_KC",
+      "season": 2026,
+      "week": 6,
+      "homeTeamId": "12",
+      "awayTeamId": "24",
+      "kickoff": "2026-10-18T20:25:00.000Z",
+      "status": "final",
+      "homeScore": 22,
+      "awayScore": 6,
+      "winnerTeamId": "12",
+      "odds": {
+        "homeMoneyline": -455,
+        "awayMoneyline": 350,
+        "homeSpread": -7.5,
+        "total": 41.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_06_BUF_LV",
+      "season": 2026,
+      "week": 6,
+      "homeTeamId": "13",
+      "awayTeamId": "2",
+      "kickoff": "2026-10-18T20:25:00.000Z",
+      "status": "final",
+      "homeScore": 30,
+      "awayScore": 33,
+      "winnerTeamId": "2",
+      "odds": {
+        "homeMoneyline": 195,
+        "awayMoneyline": -238,
+        "homeSpread": 5.5,
+        "total": 53.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_06_DAL_GB",
+      "season": 2026,
+      "week": 6,
+      "homeTeamId": "9",
+      "awayTeamId": "6",
+      "kickoff": "2026-10-19T00:20:00.000Z",
+      "status": "final",
+      "homeScore": 23,
+      "awayScore": 13,
+      "winnerTeamId": "9",
+      "odds": {
+        "homeMoneyline": -105,
+        "awayMoneyline": -115,
+        "homeSpread": 1.5,
+        "total": 53.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_06_WAS_SF",
+      "season": 2026,
+      "week": 6,
+      "homeTeamId": "25",
+      "awayTeamId": "28",
+      "kickoff": "2026-10-20T00:15:00.000Z",
+      "status": "final",
+      "homeScore": 23,
+      "awayScore": 17,
+      "winnerTeamId": "25",
+      "odds": {
+        "homeMoneyline": -395,
+        "awayMoneyline": 310,
+        "homeSpread": -7.5,
+        "total": 51.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_07_NE_CHI",
+      "season": 2026,
+      "week": 7,
+      "homeTeamId": "3",
+      "awayTeamId": "17",
+      "kickoff": "2026-10-23T00:15:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -155,
+        "awayMoneyline": 130,
+        "homeSpread": -3,
+        "total": 50.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_07_PIT_NO",
+      "season": 2026,
+      "week": 7,
+      "homeTeamId": "18",
+      "awayTeamId": "23",
+      "kickoff": "2026-10-25T13:30:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": 145,
+        "awayMoneyline": -175,
+        "homeSpread": 3.5,
+        "total": 44.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_07_SF_ATL",
+      "season": 2026,
+      "week": 7,
+      "homeTeamId": "1",
+      "awayTeamId": "25",
+      "kickoff": "2026-10-25T17:00:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": 130,
+        "awayMoneyline": -155,
+        "homeSpread": 2.5,
+        "total": 49.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_07_CIN_BAL",
+      "season": 2026,
+      "week": 7,
+      "homeTeamId": "33",
+      "awayTeamId": "4",
+      "kickoff": "2026-10-25T17:00:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": 102,
+        "awayMoneyline": -122,
+        "homeSpread": 1.5,
+        "total": 48.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_07_TB_CAR",
+      "season": 2026,
+      "week": 7,
+      "homeTeamId": "29",
+      "awayTeamId": "27",
+      "kickoff": "2026-10-25T17:00:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -166,
+        "awayMoneyline": 140,
+        "homeSpread": -3,
+        "total": 44.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_07_NYG_HOU",
+      "season": 2026,
+      "week": 7,
+      "homeTeamId": "34",
+      "awayTeamId": "19",
+      "kickoff": "2026-10-25T17:00:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -535,
+        "awayMoneyline": 400,
+        "homeSpread": -10.5,
+        "total": 42.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_07_IND_MIN",
+      "season": 2026,
+      "week": 7,
+      "homeTeamId": "16",
+      "awayTeamId": "11",
+      "kickoff": "2026-10-25T17:00:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -278,
+        "awayMoneyline": 225,
+        "homeSpread": -6.5,
+        "total": 41.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_07_MIA_NYJ",
+      "season": 2026,
+      "week": 7,
+      "homeTeamId": "20",
+      "awayTeamId": "15",
+      "kickoff": "2026-10-25T17:00:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -225,
+        "awayMoneyline": 185,
+        "homeSpread": -4.5,
+        "total": 39.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_07_CLE_TEN",
+      "season": 2026,
+      "week": 7,
+      "homeTeamId": "10",
+      "awayTeamId": "5",
+      "kickoff": "2026-10-25T17:00:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": 110,
+        "awayMoneyline": -130,
+        "homeSpread": 1.5,
+        "total": 37.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_07_DEN_ARI",
+      "season": 2026,
+      "week": 7,
+      "homeTeamId": "22",
+      "awayTeamId": "7",
+      "kickoff": "2026-10-25T20:05:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": 190,
+        "awayMoneyline": -230,
+        "homeSpread": 4.5,
+        "total": 43.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_07_GB_DET",
+      "season": 2026,
+      "week": 7,
+      "homeTeamId": "8",
+      "awayTeamId": "9",
+      "kickoff": "2026-10-25T20:25:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -166,
+        "awayMoneyline": 140,
+        "homeSpread": -3,
+        "total": 53.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_07_LA_LV",
+      "season": 2026,
+      "week": 7,
+      "homeTeamId": "13",
+      "awayTeamId": "14",
+      "kickoff": "2026-10-25T20:25:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": 180,
+        "awayMoneyline": -218,
+        "homeSpread": 3.5,
+        "total": 48.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_07_KC_SEA",
+      "season": 2026,
+      "week": 7,
+      "homeTeamId": "26",
+      "awayTeamId": "12",
+      "kickoff": "2026-10-26T00:20:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -155,
+        "awayMoneyline": 130,
+        "homeSpread": -3,
+        "total": 42.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_07_DAL_PHI",
+      "season": 2026,
+      "week": 7,
+      "homeTeamId": "21",
+      "awayTeamId": "6",
+      "kickoff": "2026-10-27T00:15:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": 185,
+        "awayMoneyline": -225,
+        "homeSpread": 4.5,
+        "total": 44.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_08_CAR_GB",
+      "season": 2026,
+      "week": 8,
+      "homeTeamId": "9",
+      "awayTeamId": "29",
+      "kickoff": "2026-10-30T00:15:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -155,
+        "awayMoneyline": 130,
+        "homeSpread": -3,
+        "total": 47.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_08_BAL_BUF",
+      "season": 2026,
+      "week": 8,
+      "homeTeamId": "2",
+      "awayTeamId": "33",
+      "kickoff": "2026-11-01T18:00:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -166,
+        "awayMoneyline": 140,
+        "homeSpread": -3,
+        "total": 51.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_08_TEN_CIN",
+      "season": 2026,
+      "week": 8,
+      "homeTeamId": "4",
+      "awayTeamId": "10",
+      "kickoff": "2026-11-01T18:00:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -575,
+        "awayMoneyline": 425,
+        "homeSpread": -10,
+        "total": 46.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_08_ARI_DAL",
+      "season": 2026,
+      "week": 8,
+      "homeTeamId": "6",
+      "awayTeamId": "22",
+      "kickoff": "2026-11-01T18:00:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -305,
+        "awayMoneyline": 245,
+        "homeSpread": -6.5,
+        "total": 51.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_08_MIN_DET",
+      "season": 2026,
+      "week": 8,
+      "homeTeamId": "8",
+      "awayTeamId": "16",
+      "kickoff": "2026-11-01T18:00:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -155,
+        "awayMoneyline": 130,
+        "homeSpread": -2.5,
+        "total": 47.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_08_IND_JAX",
+      "season": 2026,
+      "week": 8,
+      "homeTeamId": "30",
+      "awayTeamId": "11",
+      "kickoff": "2026-11-01T18:00:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -375,
+        "awayMoneyline": 295,
+        "homeSpread": -7.5,
+        "total": 47.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_08_LV_NYJ",
+      "season": 2026,
+      "week": 8,
+      "homeTeamId": "20",
+      "awayTeamId": "13",
+      "kickoff": "2026-11-01T18:00:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -112,
+        "awayMoneyline": -108,
+        "homeSpread": 1.5,
+        "total": 42.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_08_CLE_PIT",
+      "season": 2026,
+      "week": 8,
+      "homeTeamId": "23",
+      "awayTeamId": "5",
+      "kickoff": "2026-11-01T18:00:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -205,
+        "awayMoneyline": 170,
+        "homeSpread": -4.5,
+        "total": 38.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_08_ATL_TB",
+      "season": 2026,
+      "week": 8,
+      "homeTeamId": "27",
+      "awayTeamId": "1",
+      "kickoff": "2026-11-01T18:00:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -118,
+        "awayMoneyline": -102,
+        "homeSpread": -1.5,
+        "total": 44.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_08_LAC_LA",
+      "season": 2026,
+      "week": 8,
+      "homeTeamId": "14",
+      "awayTeamId": "24",
+      "kickoff": "2026-11-01T21:05:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -355,
+        "awayMoneyline": 280,
+        "homeSpread": -7.5,
+        "total": 46.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_08_KC_DEN",
+      "season": 2026,
+      "week": 8,
+      "homeTeamId": "7",
+      "awayTeamId": "12",
+      "kickoff": "2026-11-01T21:25:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": 102,
+        "awayMoneyline": -122,
+        "homeSpread": 1.5,
+        "total": 42.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_08_NE_MIA",
+      "season": 2026,
+      "week": 8,
+      "homeTeamId": "15",
+      "awayTeamId": "17",
+      "kickoff": "2026-11-01T21:25:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": 330,
+        "awayMoneyline": -425,
+        "homeSpread": 7.5,
+        "total": 44.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_08_PHI_WAS",
+      "season": 2026,
+      "week": 8,
+      "homeTeamId": "28",
+      "awayTeamId": "21",
+      "kickoff": "2026-11-02T01:20:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -185,
+        "awayMoneyline": 154,
+        "homeSpread": -3.5,
+        "total": 41.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_08_CHI_SEA",
+      "season": 2026,
+      "week": 8,
+      "homeTeamId": "26",
+      "awayTeamId": "3",
+      "kickoff": "2026-11-03T01:15:00.000Z",
+      "status": "scheduled",
+      "odds": {
+        "homeMoneyline": -162,
+        "awayMoneyline": 136,
+        "homeSpread": -3,
+        "total": 46.5,
+        "source": "nflverse odds snapshot",
+        "updatedAt": "2026-10-22T14:57:18.706Z"
+      }
+    },
+    {
+      "id": "2026_09_JAX_BAL",
+      "season": 2026,
+      "week": 9,
+      "homeTeamId": "33",
+      "awayTeamId": "30",
+      "kickoff": "2026-11-06T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_09_CIN_ATL",
+      "season": 2026,
+      "week": 9,
+      "homeTeamId": "1",
+      "awayTeamId": "4",
+      "kickoff": "2026-11-08T14:30:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_09_DEN_CAR",
+      "season": 2026,
+      "week": 9,
+      "homeTeamId": "29",
+      "awayTeamId": "7",
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_09_DAL_IND",
+      "season": 2026,
+      "week": 9,
+      "homeTeamId": "11",
+      "awayTeamId": "6",
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_09_NYJ_KC",
+      "season": 2026,
+      "week": 9,
+      "homeTeamId": "12",
+      "awayTeamId": "20",
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_09_DET_MIA",
+      "season": 2026,
+      "week": 9,
+      "homeTeamId": "15",
+      "awayTeamId": "8",
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_09_CLE_NO",
+      "season": 2026,
+      "week": 9,
+      "homeTeamId": "18",
+      "awayTeamId": "5",
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_09_NYG_PHI",
+      "season": 2026,
+      "week": 9,
+      "homeTeamId": "21",
+      "awayTeamId": "19",
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_09_LA_WAS",
+      "season": 2026,
+      "week": 9,
+      "homeTeamId": "28",
+      "awayTeamId": "14",
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_09_HOU_LAC",
+      "season": 2026,
+      "week": 9,
+      "homeTeamId": "24",
+      "awayTeamId": "34",
+      "kickoff": "2026-11-08T21:05:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_09_LV_SF",
+      "season": 2026,
+      "week": 9,
+      "homeTeamId": "25",
+      "awayTeamId": "13",
+      "kickoff": "2026-11-08T21:05:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_09_GB_NE",
+      "season": 2026,
+      "week": 9,
+      "homeTeamId": "17",
+      "awayTeamId": "9",
+      "kickoff": "2026-11-08T21:25:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_09_ARI_SEA",
+      "season": 2026,
+      "week": 9,
+      "homeTeamId": "26",
+      "awayTeamId": "22",
+      "kickoff": "2026-11-08T21:25:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_09_TB_CHI",
+      "season": 2026,
+      "week": 9,
+      "homeTeamId": "3",
+      "awayTeamId": "27",
+      "kickoff": "2026-11-09T01:20:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_09_BUF_MIN",
+      "season": 2026,
+      "week": 9,
+      "homeTeamId": "16",
+      "awayTeamId": "2",
+      "kickoff": "2026-11-10T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_10_WAS_NYG",
+      "season": 2026,
+      "week": 10,
+      "homeTeamId": "19",
+      "awayTeamId": "28",
+      "kickoff": "2026-11-13T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_10_NE_DET",
+      "season": 2026,
+      "week": 10,
+      "homeTeamId": "8",
+      "awayTeamId": "17",
+      "kickoff": "2026-11-15T14:30:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_10_KC_ATL",
+      "season": 2026,
+      "week": 10,
+      "homeTeamId": "1",
+      "awayTeamId": "12",
+      "kickoff": "2026-11-15T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_10_HOU_CLE",
+      "season": 2026,
+      "week": 10,
+      "homeTeamId": "5",
+      "awayTeamId": "34",
+      "kickoff": "2026-11-15T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_10_MIN_GB",
+      "season": 2026,
+      "week": 10,
+      "homeTeamId": "9",
+      "awayTeamId": "16",
+      "kickoff": "2026-11-15T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_10_MIA_IND",
+      "season": 2026,
+      "week": 10,
+      "homeTeamId": "11",
+      "awayTeamId": "15",
+      "kickoff": "2026-11-15T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_10_CAR_NO",
+      "season": 2026,
+      "week": 10,
+      "homeTeamId": "18",
+      "awayTeamId": "29",
+      "kickoff": "2026-11-15T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_10_BUF_NYJ",
+      "season": 2026,
+      "week": 10,
+      "homeTeamId": "20",
+      "awayTeamId": "2",
+      "kickoff": "2026-11-15T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_10_JAX_TEN",
+      "season": 2026,
+      "week": 10,
+      "homeTeamId": "10",
+      "awayTeamId": "30",
+      "kickoff": "2026-11-15T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_10_LA_ARI",
+      "season": 2026,
+      "week": 10,
+      "homeTeamId": "22",
+      "awayTeamId": "14",
+      "kickoff": "2026-11-15T21:05:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_10_SEA_LV",
+      "season": 2026,
+      "week": 10,
+      "homeTeamId": "13",
+      "awayTeamId": "26",
+      "kickoff": "2026-11-15T21:05:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_10_SF_DAL",
+      "season": 2026,
+      "week": 10,
+      "homeTeamId": "6",
+      "awayTeamId": "25",
+      "kickoff": "2026-11-15T21:25:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_10_PIT_CIN",
+      "season": 2026,
+      "week": 10,
+      "homeTeamId": "4",
+      "awayTeamId": "23",
+      "kickoff": "2026-11-16T01:20:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_10_LAC_BAL",
+      "season": 2026,
+      "week": 10,
+      "homeTeamId": "33",
+      "awayTeamId": "24",
+      "kickoff": "2026-11-17T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_11_IND_HOU",
+      "season": 2026,
+      "week": 11,
+      "homeTeamId": "34",
+      "awayTeamId": "11",
+      "kickoff": "2026-11-20T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_11_MIA_BUF",
+      "season": 2026,
+      "week": 11,
+      "homeTeamId": "2",
+      "awayTeamId": "15",
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_11_BAL_CAR",
+      "season": 2026,
+      "week": 11,
+      "homeTeamId": "29",
+      "awayTeamId": "33",
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_11_NO_CHI",
+      "season": 2026,
+      "week": 11,
+      "homeTeamId": "3",
+      "awayTeamId": "18",
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_11_TEN_DAL",
+      "season": 2026,
+      "week": 11,
+      "homeTeamId": "6",
+      "awayTeamId": "10",
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_11_TB_DET",
+      "season": 2026,
+      "week": 11,
+      "homeTeamId": "8",
+      "awayTeamId": "27",
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_11_ARI_KC",
+      "season": 2026,
+      "week": 11,
+      "homeTeamId": "12",
+      "awayTeamId": "22",
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_11_JAX_NYG",
+      "season": 2026,
+      "week": 11,
+      "homeTeamId": "19",
+      "awayTeamId": "30",
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_11_NYJ_LAC",
+      "season": 2026,
+      "week": 11,
+      "homeTeamId": "24",
+      "awayTeamId": "20",
+      "kickoff": "2026-11-22T21:05:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_11_LV_DEN",
+      "season": 2026,
+      "week": 11,
+      "homeTeamId": "7",
+      "awayTeamId": "13",
+      "kickoff": "2026-11-22T21:25:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_11_PIT_PHI",
+      "season": 2026,
+      "week": 11,
+      "homeTeamId": "21",
+      "awayTeamId": "23",
+      "kickoff": "2026-11-22T21:25:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_11_MIN_SF",
+      "season": 2026,
+      "week": 11,
+      "homeTeamId": "25",
+      "awayTeamId": "16",
+      "kickoff": "2026-11-23T01:20:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_11_CIN_WAS",
+      "season": 2026,
+      "week": 11,
+      "homeTeamId": "28",
+      "awayTeamId": "4",
+      "kickoff": "2026-11-24T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_12_GB_LA",
+      "season": 2026,
+      "week": 12,
+      "homeTeamId": "14",
+      "awayTeamId": "9",
+      "kickoff": "2026-11-26T01:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_12_CHI_DET",
+      "season": 2026,
+      "week": 12,
+      "homeTeamId": "8",
+      "awayTeamId": "3",
+      "kickoff": "2026-11-26T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_12_PHI_DAL",
+      "season": 2026,
+      "week": 12,
+      "homeTeamId": "6",
+      "awayTeamId": "21",
+      "kickoff": "2026-11-26T21:30:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_12_KC_BUF",
+      "season": 2026,
+      "week": 12,
+      "homeTeamId": "2",
+      "awayTeamId": "12",
+      "kickoff": "2026-11-27T01:20:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_12_DEN_PIT",
+      "season": 2026,
+      "week": 12,
+      "homeTeamId": "23",
+      "awayTeamId": "7",
+      "kickoff": "2026-11-27T20:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_12_NO_CIN",
+      "season": 2026,
+      "week": 12,
+      "homeTeamId": "4",
+      "awayTeamId": "18",
+      "kickoff": "2026-11-29T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_12_LV_CLE",
+      "season": 2026,
+      "week": 12,
+      "homeTeamId": "5",
+      "awayTeamId": "13",
+      "kickoff": "2026-11-29T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_12_BAL_HOU",
+      "season": 2026,
+      "week": 12,
+      "homeTeamId": "34",
+      "awayTeamId": "33",
+      "kickoff": "2026-11-29T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_12_NYG_IND",
+      "season": 2026,
+      "week": 12,
+      "homeTeamId": "11",
+      "awayTeamId": "19",
+      "kickoff": "2026-11-29T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_12_NYJ_MIA",
+      "season": 2026,
+      "week": 12,
+      "homeTeamId": "15",
+      "awayTeamId": "20",
+      "kickoff": "2026-11-29T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_12_ATL_MIN",
+      "season": 2026,
+      "week": 12,
+      "homeTeamId": "16",
+      "awayTeamId": "1",
+      "kickoff": "2026-11-29T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_12_TEN_JAX",
+      "season": 2026,
+      "week": 12,
+      "homeTeamId": "30",
+      "awayTeamId": "10",
+      "kickoff": "2026-11-29T21:05:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_12_WAS_ARI",
+      "season": 2026,
+      "week": 12,
+      "homeTeamId": "22",
+      "awayTeamId": "28",
+      "kickoff": "2026-11-29T21:25:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_12_SEA_SF",
+      "season": 2026,
+      "week": 12,
+      "homeTeamId": "25",
+      "awayTeamId": "26",
+      "kickoff": "2026-11-29T21:25:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_12_NE_LAC",
+      "season": 2026,
+      "week": 12,
+      "homeTeamId": "24",
+      "awayTeamId": "17",
+      "kickoff": "2026-11-30T01:20:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_12_CAR_TB",
+      "season": 2026,
+      "week": 12,
+      "homeTeamId": "27",
+      "awayTeamId": "29",
+      "kickoff": "2026-12-01T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_13_KC_LA",
+      "season": 2026,
+      "week": 13,
+      "homeTeamId": "14",
+      "awayTeamId": "12",
+      "kickoff": "2026-12-04T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_13_DET_ATL",
+      "season": 2026,
+      "week": 13,
+      "homeTeamId": "1",
+      "awayTeamId": "8",
+      "kickoff": "2026-12-06T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_13_JAX_CHI",
+      "season": 2026,
+      "week": 13,
+      "homeTeamId": "3",
+      "awayTeamId": "30",
+      "kickoff": "2026-12-06T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_13_CIN_CLE",
+      "season": 2026,
+      "week": 13,
+      "homeTeamId": "5",
+      "awayTeamId": "4",
+      "kickoff": "2026-12-06T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_13_GB_NO",
+      "season": 2026,
+      "week": 13,
+      "homeTeamId": "18",
+      "awayTeamId": "9",
+      "kickoff": "2026-12-06T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_13_SF_NYG",
+      "season": 2026,
+      "week": 13,
+      "homeTeamId": "19",
+      "awayTeamId": "25",
+      "kickoff": "2026-12-06T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_13_LAC_TB",
+      "season": 2026,
+      "week": 13,
+      "homeTeamId": "27",
+      "awayTeamId": "24",
+      "kickoff": "2026-12-06T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_13_WAS_TEN",
+      "season": 2026,
+      "week": 13,
+      "homeTeamId": "10",
+      "awayTeamId": "28",
+      "kickoff": "2026-12-06T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_13_PHI_ARI",
+      "season": 2026,
+      "week": 13,
+      "homeTeamId": "22",
+      "awayTeamId": "21",
+      "kickoff": "2026-12-06T21:05:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_13_MIA_DEN",
+      "season": 2026,
+      "week": 13,
+      "homeTeamId": "7",
+      "awayTeamId": "15",
+      "kickoff": "2026-12-06T21:05:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_13_CAR_MIN",
+      "season": 2026,
+      "week": 13,
+      "homeTeamId": "16",
+      "awayTeamId": "29",
+      "kickoff": "2026-12-06T21:25:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_13_BUF_NE",
+      "season": 2026,
+      "week": 13,
+      "homeTeamId": "17",
+      "awayTeamId": "2",
+      "kickoff": "2026-12-06T21:25:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_13_HOU_PIT",
+      "season": 2026,
+      "week": 13,
+      "homeTeamId": "23",
+      "awayTeamId": "34",
+      "kickoff": "2026-12-07T01:20:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_13_DAL_SEA",
+      "season": 2026,
+      "week": 13,
+      "homeTeamId": "26",
+      "awayTeamId": "6",
+      "kickoff": "2026-12-08T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_14_MIN_NE",
+      "season": 2026,
+      "week": 14,
+      "homeTeamId": "17",
+      "awayTeamId": "16",
+      "kickoff": "2026-12-11T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_14_TB_BAL",
+      "season": 2026,
+      "week": 14,
+      "homeTeamId": "33",
+      "awayTeamId": "27",
+      "kickoff": "2026-12-13T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_14_NO_CAR",
+      "season": 2026,
+      "week": 14,
+      "homeTeamId": "29",
+      "awayTeamId": "18",
+      "kickoff": "2026-12-13T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_14_ATL_CLE",
+      "season": 2026,
+      "week": 14,
+      "homeTeamId": "5",
+      "awayTeamId": "1",
+      "kickoff": "2026-12-13T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_14_TEN_DET",
+      "season": 2026,
+      "week": 14,
+      "homeTeamId": "8",
+      "awayTeamId": "10",
+      "kickoff": "2026-12-13T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_14_CHI_MIA",
+      "season": 2026,
+      "week": 14,
+      "homeTeamId": "15",
+      "awayTeamId": "3",
+      "kickoff": "2026-12-13T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_14_DEN_NYJ",
+      "season": 2026,
+      "week": 14,
+      "homeTeamId": "20",
+      "awayTeamId": "7",
+      "kickoff": "2026-12-13T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_14_IND_PHI",
+      "season": 2026,
+      "week": 14,
+      "homeTeamId": "21",
+      "awayTeamId": "11",
+      "kickoff": "2026-12-13T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_14_HOU_WAS",
+      "season": 2026,
+      "week": 14,
+      "homeTeamId": "28",
+      "awayTeamId": "34",
+      "kickoff": "2026-12-13T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_14_LAC_LV",
+      "season": 2026,
+      "week": 14,
+      "homeTeamId": "13",
+      "awayTeamId": "24",
+      "kickoff": "2026-12-13T21:05:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_14_KC_CIN",
+      "season": 2026,
+      "week": 14,
+      "homeTeamId": "4",
+      "awayTeamId": "12",
+      "kickoff": "2026-12-13T21:25:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_14_NYG_SEA",
+      "season": 2026,
+      "week": 14,
+      "homeTeamId": "26",
+      "awayTeamId": "19",
+      "kickoff": "2026-12-13T21:25:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_14_LA_SF",
+      "season": 2026,
+      "week": 14,
+      "homeTeamId": "25",
+      "awayTeamId": "14",
+      "kickoff": "2026-12-13T21:25:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_14_BUF_GB",
+      "season": 2026,
+      "week": 14,
+      "homeTeamId": "9",
+      "awayTeamId": "2",
+      "kickoff": "2026-12-14T01:20:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_14_PIT_JAX",
+      "season": 2026,
+      "week": 14,
+      "homeTeamId": "30",
+      "awayTeamId": "23",
+      "kickoff": "2026-12-15T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_15_SF_LAC",
+      "season": 2026,
+      "week": 15,
+      "homeTeamId": "24",
+      "awayTeamId": "25",
+      "kickoff": "2026-12-18T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_15_SEA_PHI",
+      "season": 2026,
+      "week": 15,
+      "homeTeamId": "21",
+      "awayTeamId": "26",
+      "kickoff": "2026-12-19T22:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_15_CHI_BUF",
+      "season": 2026,
+      "week": 15,
+      "homeTeamId": "2",
+      "awayTeamId": "3",
+      "kickoff": "2026-12-20T01:20:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_15_CIN_CAR",
+      "season": 2026,
+      "week": 15,
+      "homeTeamId": "29",
+      "awayTeamId": "4",
+      "kickoff": "2026-12-20T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_15_MIA_GB",
+      "season": 2026,
+      "week": 15,
+      "homeTeamId": "9",
+      "awayTeamId": "15",
+      "kickoff": "2026-12-20T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_15_JAX_HOU",
+      "season": 2026,
+      "week": 15,
+      "homeTeamId": "34",
+      "awayTeamId": "30",
+      "kickoff": "2026-12-20T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_15_CLE_NYG",
+      "season": 2026,
+      "week": 15,
+      "homeTeamId": "19",
+      "awayTeamId": "5",
+      "kickoff": "2026-12-20T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_15_BAL_PIT",
+      "season": 2026,
+      "week": 15,
+      "homeTeamId": "23",
+      "awayTeamId": "33",
+      "kickoff": "2026-12-20T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_15_NO_TB",
+      "season": 2026,
+      "week": 15,
+      "homeTeamId": "27",
+      "awayTeamId": "18",
+      "kickoff": "2026-12-20T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_15_IND_TEN",
+      "season": 2026,
+      "week": 15,
+      "homeTeamId": "10",
+      "awayTeamId": "11",
+      "kickoff": "2026-12-20T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_15_ATL_WAS",
+      "season": 2026,
+      "week": 15,
+      "homeTeamId": "28",
+      "awayTeamId": "1",
+      "kickoff": "2026-12-20T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_15_NYJ_ARI",
+      "season": 2026,
+      "week": 15,
+      "homeTeamId": "22",
+      "awayTeamId": "20",
+      "kickoff": "2026-12-20T21:05:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_15_DAL_LA",
+      "season": 2026,
+      "week": 15,
+      "homeTeamId": "14",
+      "awayTeamId": "6",
+      "kickoff": "2026-12-20T21:25:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_15_DEN_LV",
+      "season": 2026,
+      "week": 15,
+      "homeTeamId": "13",
+      "awayTeamId": "7",
+      "kickoff": "2026-12-20T21:25:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_15_DET_MIN",
+      "season": 2026,
+      "week": 15,
+      "homeTeamId": "16",
+      "awayTeamId": "8",
+      "kickoff": "2026-12-21T01:20:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_15_NE_KC",
+      "season": 2026,
+      "week": 15,
+      "homeTeamId": "12",
+      "awayTeamId": "17",
+      "kickoff": "2026-12-22T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_16_HOU_PHI",
+      "season": 2026,
+      "week": 16,
+      "homeTeamId": "21",
+      "awayTeamId": "34",
+      "kickoff": "2026-12-25T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_16_GB_CHI",
+      "season": 2026,
+      "week": 16,
+      "homeTeamId": "3",
+      "awayTeamId": "9",
+      "kickoff": "2026-12-25T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_16_BUF_DEN",
+      "season": 2026,
+      "week": 16,
+      "homeTeamId": "7",
+      "awayTeamId": "2",
+      "kickoff": "2026-12-25T21:30:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_16_LA_SEA",
+      "season": 2026,
+      "week": 16,
+      "homeTeamId": "26",
+      "awayTeamId": "14",
+      "kickoff": "2026-12-26T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_16_TB_ATL",
+      "season": 2026,
+      "week": 16,
+      "homeTeamId": "1",
+      "awayTeamId": "27",
+      "kickoff": "2026-12-27T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_16_CLE_BAL",
+      "season": 2026,
+      "week": 16,
+      "homeTeamId": "33",
+      "awayTeamId": "5",
+      "kickoff": "2026-12-27T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_16_CIN_IND",
+      "season": 2026,
+      "week": 16,
+      "homeTeamId": "11",
+      "awayTeamId": "4",
+      "kickoff": "2026-12-27T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_16_LAC_MIA",
+      "season": 2026,
+      "week": 16,
+      "homeTeamId": "15",
+      "awayTeamId": "24",
+      "kickoff": "2026-12-27T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_16_WAS_MIN",
+      "season": 2026,
+      "week": 16,
+      "homeTeamId": "16",
+      "awayTeamId": "28",
+      "kickoff": "2026-12-27T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_16_ARI_NO",
+      "season": 2026,
+      "week": 16,
+      "homeTeamId": "18",
+      "awayTeamId": "22",
+      "kickoff": "2026-12-27T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_16_NE_NYJ",
+      "season": 2026,
+      "week": 16,
+      "homeTeamId": "20",
+      "awayTeamId": "17",
+      "kickoff": "2026-12-27T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_16_CAR_PIT",
+      "season": 2026,
+      "week": 16,
+      "homeTeamId": "23",
+      "awayTeamId": "29",
+      "kickoff": "2026-12-27T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_16_TEN_LV",
+      "season": 2026,
+      "week": 16,
+      "homeTeamId": "13",
+      "awayTeamId": "10",
+      "kickoff": "2026-12-27T21:05:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_16_SF_KC",
+      "season": 2026,
+      "week": 16,
+      "homeTeamId": "12",
+      "awayTeamId": "25",
+      "kickoff": "2026-12-27T21:25:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_16_JAX_DAL",
+      "season": 2026,
+      "week": 16,
+      "homeTeamId": "6",
+      "awayTeamId": "30",
+      "kickoff": "2026-12-28T01:20:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_16_NYG_DET",
+      "season": 2026,
+      "week": 16,
+      "homeTeamId": "8",
+      "awayTeamId": "19",
+      "kickoff": "2026-12-29T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_17_BAL_CIN",
+      "season": 2026,
+      "week": 17,
+      "homeTeamId": "4",
+      "awayTeamId": "33",
+      "kickoff": "2027-01-01T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_17_NO_ATL",
+      "season": 2026,
+      "week": 17,
+      "homeTeamId": "1",
+      "awayTeamId": "18",
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_17_SEA_CAR",
+      "season": 2026,
+      "week": 17,
+      "homeTeamId": "29",
+      "awayTeamId": "26",
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_17_IND_CLE",
+      "season": 2026,
+      "week": 17,
+      "homeTeamId": "5",
+      "awayTeamId": "11",
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_17_NYG_DAL",
+      "season": 2026,
+      "week": 17,
+      "homeTeamId": "6",
+      "awayTeamId": "19",
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_17_WAS_JAX",
+      "season": 2026,
+      "week": 17,
+      "homeTeamId": "30",
+      "awayTeamId": "28",
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_17_KC_LAC",
+      "season": 2026,
+      "week": 17,
+      "homeTeamId": "24",
+      "awayTeamId": "12",
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_17_BUF_MIA",
+      "season": 2026,
+      "week": 17,
+      "homeTeamId": "15",
+      "awayTeamId": "2",
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_17_DEN_NE",
+      "season": 2026,
+      "week": 17,
+      "homeTeamId": "17",
+      "awayTeamId": "7",
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_17_MIN_NYJ",
+      "season": 2026,
+      "week": 17,
+      "homeTeamId": "20",
+      "awayTeamId": "16",
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_17_LA_TB",
+      "season": 2026,
+      "week": 17,
+      "homeTeamId": "27",
+      "awayTeamId": "14",
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_17_PIT_TEN",
+      "season": 2026,
+      "week": 17,
+      "homeTeamId": "10",
+      "awayTeamId": "23",
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_17_LV_ARI",
+      "season": 2026,
+      "week": 17,
+      "homeTeamId": "22",
+      "awayTeamId": "13",
+      "kickoff": "2027-01-03T21:05:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_17_DET_CHI",
+      "season": 2026,
+      "week": 17,
+      "homeTeamId": "3",
+      "awayTeamId": "8",
+      "kickoff": "2027-01-03T21:25:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_17_PHI_SF",
+      "season": 2026,
+      "week": 17,
+      "homeTeamId": "25",
+      "awayTeamId": "21",
+      "kickoff": "2027-01-04T01:20:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_17_HOU_GB",
+      "season": 2026,
+      "week": 17,
+      "homeTeamId": "9",
+      "awayTeamId": "34",
+      "kickoff": "2027-01-05T01:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_18_SF_ARI",
+      "season": 2026,
+      "week": 18,
+      "homeTeamId": "22",
+      "awayTeamId": "25",
+      "kickoff": "2027-01-10T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_18_PIT_BAL",
+      "season": 2026,
+      "week": 18,
+      "homeTeamId": "33",
+      "awayTeamId": "23",
+      "kickoff": "2027-01-10T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_18_NYJ_BUF",
+      "season": 2026,
+      "week": 18,
+      "homeTeamId": "2",
+      "awayTeamId": "20",
+      "kickoff": "2027-01-10T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_18_ATL_CAR",
+      "season": 2026,
+      "week": 18,
+      "homeTeamId": "29",
+      "awayTeamId": "1",
+      "kickoff": "2027-01-10T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_18_CLE_CIN",
+      "season": 2026,
+      "week": 18,
+      "homeTeamId": "4",
+      "awayTeamId": "5",
+      "kickoff": "2027-01-10T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_18_LAC_DEN",
+      "season": 2026,
+      "week": 18,
+      "homeTeamId": "7",
+      "awayTeamId": "24",
+      "kickoff": "2027-01-10T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_18_DET_GB",
+      "season": 2026,
+      "week": 18,
+      "homeTeamId": "9",
+      "awayTeamId": "8",
+      "kickoff": "2027-01-10T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_18_TEN_HOU",
+      "season": 2026,
+      "week": 18,
+      "homeTeamId": "34",
+      "awayTeamId": "10",
+      "kickoff": "2027-01-10T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_18_JAX_IND",
+      "season": 2026,
+      "week": 18,
+      "homeTeamId": "11",
+      "awayTeamId": "30",
+      "kickoff": "2027-01-10T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_18_LV_KC",
+      "season": 2026,
+      "week": 18,
+      "homeTeamId": "12",
+      "awayTeamId": "13",
+      "kickoff": "2027-01-10T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_18_SEA_LA",
+      "season": 2026,
+      "week": 18,
+      "homeTeamId": "14",
+      "awayTeamId": "26",
+      "kickoff": "2027-01-10T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_18_CHI_MIN",
+      "season": 2026,
+      "week": 18,
+      "homeTeamId": "16",
+      "awayTeamId": "3",
+      "kickoff": "2027-01-10T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_18_MIA_NE",
+      "season": 2026,
+      "week": 18,
+      "homeTeamId": "17",
+      "awayTeamId": "15",
+      "kickoff": "2027-01-10T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_18_TB_NO",
+      "season": 2026,
+      "week": 18,
+      "homeTeamId": "18",
+      "awayTeamId": "27",
+      "kickoff": "2027-01-10T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_18_PHI_NYG",
+      "season": 2026,
+      "week": 18,
+      "homeTeamId": "19",
+      "awayTeamId": "21",
+      "kickoff": "2027-01-10T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "2026_18_DAL_WAS",
+      "season": 2026,
+      "week": 18,
+      "homeTeamId": "28",
+      "awayTeamId": "6",
+      "kickoff": "2027-01-10T18:00:00.000Z",
+      "status": "scheduled"
+    }
+  ],
+  "season": 2026,
+  "currentWeek": 7,
+  "updatedAt": "2026-10-22T14:57:18.706Z",
+  "source": "nflverse / nfldata",
+  "stale": false
+}
